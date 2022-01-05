@@ -1,0 +1,20 @@
+{
+  "name": "mirror",
+  "version": "1.0.0",
+  "displayName": "Mirror",
+  "description": "Mirror library by vis2k",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [],
+  "author": {
+    "name": "vis2k",
+    "email": "info@noobtuts.com",
+    "url": "https://github.com/vis2k/Mirror"
+  },
+"samples": [
+],
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.1"
+  },
+  "hideInEditor": false
+}
